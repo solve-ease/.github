@@ -4,7 +4,7 @@
 
 At Solve-Ease, we believe in **Building Solutions for Real-World Challenges**. Our mission is simple: Start with Purpose, Solve with Innovation, Succeed with Impact.
 
-### 🌐 [Visit our official website](https://solve-ease.github.io/official-website/)
+### 🌐 [Visit our official website](https://www.solveease.tech/)
 
 ## 📚 Popular Repositories
 
